@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding:0px;
+    /* background-color: whitesmoke; */
+}
+body{
+    background-color: #dfe6e9;
+}
+#conth1{
+    margin-top: 40px;
+}
+#top{
+    background-color: #f5f8fa;/*e9f0f3*/
+    
+    padding-top: 13px;
+}
+#topspan1{
+    font-size: 35px;
+    font-weight: 600;
+}
+  #topspan2{
+    font-family: "Open Sans";
+    float: right;
+    font-size: 30px;    
+    font-weight: 800;
+  }
+  img{
+      height: 80px;
+      width:80px;
+  }
+#containerbutton{
+   /* margin-left: 450px; */
+   font-weight: 600;
+   letter-spacing: 1px;
+   background-color: #433e4e;
+   margin-bottom: 100px;
+}
+#containertable{
+    font-weight: 600;
+}
