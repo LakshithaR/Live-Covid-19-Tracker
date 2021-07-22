@@ -3,10 +3,11 @@ Live Covid-19 Statistical Data
 
 
 Main Aim of this Project is to present the Live Covid-19 Data
-to our users in a form which is easily understood . We have used
-Graph(chart) to give statistical data of number of Confirmed,
+to our users in a way which is easily understood by all.
+
+We have used Graph(chart) to provide statistical data of number of Confirmed,
 Active, Recovered and Deceased Cases of all the states (including
-Union Territories) across India. Further, we have also given Zonal wise 
+Union Territories) across India. Further, we have also given Zonal Wise 
 breakup which will help in easy analysis of cases. All the live data for this 
 Project is accesed from:
 https://api.covid19india.org/data.json
