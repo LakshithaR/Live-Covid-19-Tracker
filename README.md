@@ -13,7 +13,9 @@ Project is accesed from-
 https://api.covid19india.org/data.json
 
 With the help of HTML, CSS and JS we have developed this entire 
-Project.
+Project. We have also made it responsive making it suitable to
+work on any device screen. We achieved this with the help of
+Media Query and Flex.
 
 
 You can view our website at-
