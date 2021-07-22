@@ -8,7 +8,8 @@ to our users in a way which is easily understood by all.
 We have used Graph(chart) to provide statistical data of number of Confirmed,
 Active, Recovered and Deceased Cases of all the States (including
 Union Territories) across India. Further, we have also given Zonal Wise 
-breakup which will help in easy analysis of cases. All the live data for this 
+breakup which will help in easy analysis of cases as well as it helps to give
+a better comparison. All the live data for this 
 Project is accesed from-
 https://api.covid19india.org/data.json
 
